@@ -1,0 +1,1 @@
+const util_6co4 = (d: any) => d;
